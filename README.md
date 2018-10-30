@@ -1,2 +1,1 @@
-# Intro-ML-Finance
-Machine Learning in Finance
+# intro_ml_finance
